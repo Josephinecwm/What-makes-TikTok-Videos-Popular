@@ -1,2 +1,2 @@
-# What-makes-TikTok-Videos-Popular
-In order to understand the secret behind trending Tik Tok videos, this project draws perspectives from sentiment, music and video duration to analyse the trends in popular TikTok videos..
+# Data Visualisation - What makes TikTok Videos Popular?
+In order to understand the secret behind trending Tik Tok videos, this study used a dataset of TikTok trending videos from Kaggle (https://www.kaggle.com/datasets/erikvdven/tiktok-trending-december-2020) to draw perspectives from sentiment, music and video duration. This project utilises data visualisation techniques to create visual displays of real world data and the narritives conveyed.
